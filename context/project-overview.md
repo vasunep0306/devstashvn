@@ -29,6 +29,17 @@ This creates **context switching, lost knowledge** and **inconsistent workflows*
 
 ---
 
+### References
+
+UI mockups for the dashboard are provided as screenshots in the project repository.  
+They are located in the `context/screenshots/` directory. Use these images as the visual reference for layout, structure, and component behavior when implementing the UI.
+
+Available mockups:
+- `context/screenshots/dashboard-ui-main.png` – main dashboard layout
+- `context/screenshots/dashboard-ui-drawer.png` – dashboard with navigation drawer open
+
+These screenshots represent the intended UI structure and should be treated as the source of truth for the initial interface implementation.
+
 ## 🧑‍💻 Users
 
 | Persona                    | Needs                                     |
